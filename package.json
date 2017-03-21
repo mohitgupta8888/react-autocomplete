@@ -1,0 +1,28 @@
+{
+  "name": "react-autocomplete",
+  "version": "1.0.0",
+  "description": "React Component to add auto complete feature to any text input",
+  "scripts": {
+    "test": "ava",
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitgupta8888/react-autocomplete.git"
+  },
+  "keywords": [
+    "React",
+    "AutoComplete"
+  ],
+  "author": "Mohit Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohitgupta8888/react-autocomplete/issues"
+  },
+  "homepage": "https://github.com/mohitgupta8888/react-autocomplete#readme",
+  "devDependencies": {
+    "@kadira/storybook": "^2.35.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
